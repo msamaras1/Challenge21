@@ -203,11 +203,30 @@ To enhance your KaseiCoin crowdsale with this added functionality, complete the 
 
 **Evaluation Evidence**
 <p>
-###Successful compilation of the contract###
+
+**Successful compilation of the contract**
 <img src='https://github.com/msamaras1/Challenge21/blob/main/Image1.jpg'>
 <p>
+
 **Successful compilation of KaseiCoinCrowdsale.sol**
 <img src='https://github.com/msamaras1/Challenge21/blob/main/Image2.jpg'>
 <p>
+
 **Successful compilation of KaseiCoinCrowdsale.sol Steps #4-9**
 <img src='https://github.com/msamaras1/Challenge21/blob/main/Image3.jpg'>
+<p>
+
+**Successful Deployment of Crowdsale**
+<img src='https://github.com/msamaras1/Challenge21/blob/main/Image4.jpg'>
+<p>
+
+**After Crowdsale address was provided**
+<img src='https://github.com/msamaras1/Challenge21/blob/main/Image5.jpg'>
+<p>
+
+**After Token address was provided**
+<img src='https://github.com/msamaras1/Challenge21/blob/main/Image6.jpg'>
+<p>
+
+**After Token address was provided mint functions are available**
+<img src='https://github.com/msamaras1/Challenge21/blob/main/Image7.jpg'>
