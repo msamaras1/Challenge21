@@ -204,4 +204,4 @@ To enhance your KaseiCoin crowdsale with this added functionality, complete the 
 **Evaluation Evidence**
 <p>
 ###Successful compilation of the contract###
-![successful compilation of the contract](https://github.com/msamaras1/Challenge21/blob/main/Image1.jpg)
+<img src='https://github.com/msamaras1/Challenge21/blob/main/Image1.jpg'>
