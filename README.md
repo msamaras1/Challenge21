@@ -208,3 +208,6 @@ To enhance your KaseiCoin crowdsale with this added functionality, complete the 
 <p>
 **Successful compilation of KaseiCoinCrowdsale.sol**
 <img src='https://github.com/msamaras1/Challenge21/blob/main/Image2.jpg'>
+<p>
+**Successful compilation of KaseiCoinCrowdsale.sol Steps #4-9**
+<img src='https://github.com/msamaras1/Challenge21/blob/main/Image3.jpg'>
