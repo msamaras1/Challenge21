@@ -202,4 +202,6 @@ To enhance your KaseiCoin crowdsale with this added functionality, complete the 
     * View your tokens in MetaMask. In MetaMask, click Add Token, then click Custom Token,  and enter the token contract’s address. Make sure to purchase higher amounts of tokens in order to see the denomination appear in your wallet as more than a few wei worth.
 
 **Evaluation Evidence**
-![successful compilation of the contract]("Image1.jpg")
+<p>
+###Successful compilation of the contract###
+![successful compilation of the contract](https://github.com/msamaras1/Challenge21/blob/main/Image1.jpg)
